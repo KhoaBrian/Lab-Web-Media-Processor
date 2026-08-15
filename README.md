@@ -17,3 +17,6 @@ This project was built for our mem for web media optimization. It ensures:
 - **Language:** Python 3.12
 - **GUI Framework:** Tkinter.
 - **Image Processing:** Pillow
+
+## 💻 AI Assistance Disclosure
+During the development of this tool, I utilized AI to assist with code refactoring, structuring, and drafting documentation. However, all architectural decisions, requirements engineering, integration, and final testing were reviewed, and verified by me.
