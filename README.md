@@ -1,5 +1,6 @@
 # Lab Web Media Processor
 
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 A local, multithreaded GUI utility developed to automate batch watermarking, compression, and WebP/GIF conversion for lab media assets.
 
 ## Why?
